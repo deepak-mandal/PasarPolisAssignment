@@ -9,4 +9,8 @@
 </div>
 <div>
     <img src="ln-R3.png" </img> 
+    <img src="lp-R1.png"></img>
+    <img src="lp-R2.png"></img>
+    <img src="lp-R3.png"></img>
+    <img src="lp-R4.png"></img>
 </div>
